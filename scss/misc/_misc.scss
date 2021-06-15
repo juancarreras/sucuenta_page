@@ -1,0 +1,42 @@
+/*
+=============================================================
+                        MISCELANEA
+=============================================================
+*/
+html {
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+/* *{
+    overflow-x: hidden !important;
+} */
+
+img{
+    max-height: 700px;
+    max-width: 1500px;
+}
+
+body{
+    background-color: #dfd5da;
+    font-family: 'Open Sans Condensed', sans-serif;
+    }
+    
+    
+    .instagram-p{
+    color: rgba(0,0,0,.9);
+    }
+    
+    .product-p{
+        background-image: none;
+        background-color: cornsilk !important;
+        font-family: 'Dancing Script', cursive;
+    }
+    
+    footer{
+        color: wheat !important;
+    }
+    
+    li{
+        text-decoration:none !important;
+        list-style-type: none;
+    }
